@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jun5623/lotte.git/static/css/main.9655a85c.css",
+    "main.js": "/jun5623/lotte.git/static/js/main.0b20e718.js",
+    "static/js/453.ecae8536.chunk.js": "/jun5623/lotte.git/static/js/453.ecae8536.chunk.js",
+    "static/media/ui_ico_bookmark_off.svg": "/jun5623/lotte.git/static/media/ui_ico_bookmark_off.cd854afeeaa272202e3d.svg",
+    "static/media/comm_ico_delivery.svg": "/jun5623/lotte.git/static/media/comm_ico_delivery.ce76ff9fbdd03fd9a179.svg",
+    "static/media/comm_ico_store_pickup.svg": "/jun5623/lotte.git/static/media/comm_ico_store_pickup.653b07c810fed7054d81.svg",
+    "static/media/comm_ico_store_share.svg": "/jun5623/lotte.git/static/media/comm_ico_store_share.8c4172c2b86f1a36d557.svg",
+    "static/media/comm_ico_cart_white.svg": "/jun5623/lotte.git/static/media/comm_ico_cart_white.8144303b7c994ad1b26a.svg",
+    "index.html": "/jun5623/lotte.git/index.html",
+    "static/media/comm_btn_ico_search.svg": "/jun5623/lotte.git/static/media/comm_btn_ico_search.342f7c8ad0e0bbab753c.svg",
+    "static/media/back_back.svg": "/jun5623/lotte.git/static/media/back_back.4e46244c47f08a003b59.svg",
+    "static/media/ui_popup_close.svg": "/jun5623/lotte.git/static/media/ui_popup_close.c1e617d67d135c8b4add.svg",
+    "main.9655a85c.css.map": "/jun5623/lotte.git/static/css/main.9655a85c.css.map",
+    "main.0b20e718.js.map": "/jun5623/lotte.git/static/js/main.0b20e718.js.map",
+    "453.ecae8536.chunk.js.map": "/jun5623/lotte.git/static/js/453.ecae8536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9655a85c.css",
+    "static/js/main.0b20e718.js"
+  ]
+}
