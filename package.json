@@ -14,7 +14,7 @@
     "react-tabs": "^6.1.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/jun5623/lotte.git",
+  "homepage": "https://jun5623.github.io/lotteria/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
