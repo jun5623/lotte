@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lotte/static/css/main.7e87ea7d.css",
-    "main.js": "/lotte/static/js/main.4136513d.js",
+    "main.js": "/lotte/static/js/main.5efc251c.js",
     "static/js/453.ecae8536.chunk.js": "/lotte/static/js/453.ecae8536.chunk.js",
     "static/media/ui_ico_bookmark_off.svg": "/lotte/static/media/ui_ico_bookmark_off.cd854afeeaa272202e3d.svg",
     "static/media/comm_ico_delivery.svg": "/lotte/static/media/comm_ico_delivery.ce76ff9fbdd03fd9a179.svg",
@@ -13,11 +13,11 @@
     "static/media/back_back.svg": "/lotte/static/media/back_back.4e46244c47f08a003b59.svg",
     "static/media/ui_popup_close.svg": "/lotte/static/media/ui_popup_close.c1e617d67d135c8b4add.svg",
     "main.7e87ea7d.css.map": "/lotte/static/css/main.7e87ea7d.css.map",
-    "main.4136513d.js.map": "/lotte/static/js/main.4136513d.js.map",
+    "main.5efc251c.js.map": "/lotte/static/js/main.5efc251c.js.map",
     "453.ecae8536.chunk.js.map": "/lotte/static/js/453.ecae8536.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e87ea7d.css",
-    "static/js/main.4136513d.js"
+    "static/js/main.5efc251c.js"
   ]
 }
